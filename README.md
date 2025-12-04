@@ -1,24 +1,43 @@
-## Hi there, I'm Rishabh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Rishabh 👋
 
-### I'm a Student, Developer and Designer!!
-- 🔭 I’m currently working as a Freelance web developer
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Open source projects
-- ✨ Fun fact: I love to design Logo and UI/UX
+Full-stack developer focused on building scalable, intuitive, and well-architected digital products.  
+I specialize in crafting clean interfaces, modular systems, and robust platform foundations for SaaS and data-driven applications.
 
-### Languages and Tools
+---
 
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/cpp.svg" align="left" alt="Cpp" height="35px"  /> 
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/python.svg" align="left" alt="Python" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/java.svg" align="left" alt="Java" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/html5.svg" align="left" alt="HTML5" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/css3.svg" align="left" alt="CSS3" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/javascript.svg" align="left" alt="JavaScript" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/reactjs.svg" align="left" alt="ReactJS" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/nodejs.svg" align="left" alt="NodeJS" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/mysql.svg" align="left" alt="Mysql" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/mongodb.svg" align="left" alt="MongoDB" height="35px" />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/git.svg" align="left" alt="Git" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/vscode.svg" align="left" alt="VSCode" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/github.svg" align="left" alt="Github" height="35px"  />
-<img src="https://raw.githubusercontent.com/Rishabh-Kodes/Rishabh-Kodes/main/assets/svg/terminal.svg" align="left" alt="Terminal" height="35px"  />
+## 🚀 About Me
+- 4 years of professional engineering experience  
+- 2 years of freelance experience building SaaS platforms & dashboards  
+- Strong focus on frontend architecture, user experience, and clean implementation  
+- Experience delivering production-ready systems for high-growth startups  
+- Believer in maintainable code, scalable patterns, and thoughtful design
+
+---
+
+## 🧩 What I Do
+- Build dashboards, admin portals, and data-dense interfaces  
+- Develop reusable UI component systems  
+- Design scalable platform foundations and role-based applications  
+- Improve performance, DX, and architecture on existing products  
+- Deliver polished, reliable MVPs for early-stage teams  
+
+---
+
+## 📫 Connect With Me
+- Portfolio: [rishabhkodes.com](https://rishabhkodes.com/)
+- LinkedIn: [linkedin.com/in/rishabhkodes](https://www.linkedin.com/in/rishabhkodes/)
+
+---
+
+## ⚡ Current Focus
+Building clean, scalable foundations for platforms—especially where usability, structure, and long-term maintainability matter.
+
+---
+
+## 📝 Philosophy
+> *“Simple, scalable and thoughtful — code that grows with the product, not against it.”*
+
+---
+
+Thanks for stopping by! ⭐  
+Feel free to reach out — always happy to collaborate or discuss interesting product ideas.
